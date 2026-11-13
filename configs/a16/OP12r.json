@@ -16,7 +16,7 @@
   "hmbird": true,
   "NMS": true,
   "stock_config": false,
-  "opt": true,
+  "opt": false,
   "ds": false,
   "bbg": true,
   "bbr": true,
